@@ -1,2 +1,29 @@
-# smart-pill-dispenser
-Smart pill dispenser using Arduino, RTC, and servo motor
+#  Smart Pill Dispenser
+
+##  Overview
+An automated system that dispenses medicines at scheduled times using RTC and a servo motor.
+
+---
+
+##  Features
+- Time-based dispensing
+- Buzzer alert
+- Servo motor control
+- LCD display
+
+---
+
+##  Components
+- Arduino UNO
+- RTC
+- Servo Motor
+- LCD 
+- Buzzer
+
+---
+
+## 💻 Code
+Available in /code folder
+
+---
+
