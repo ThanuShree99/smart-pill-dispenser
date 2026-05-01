@@ -26,4 +26,9 @@ An automated system that dispenses medicines at scheduled times using RTC and a 
 Available in /code folder
 
 ---
+##  Project Output
+
+![Setup 1](media/setup1.jpg)
+![Setup 2](media/setup2.jpg)
+
 
