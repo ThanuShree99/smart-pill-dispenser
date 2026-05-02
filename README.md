@@ -31,4 +31,9 @@ Available in /code folder
 ![Setup 1](media/setup1.jpg)
 ![Setup 2](media/setup2.jpg)
 
+---
+## Project Poster
+![Setup 3](media/setup3.jpg)
+
+
 
